@@ -73,3 +73,5 @@ BTN.addEventListener("click", () => {
         }
     })
 })
+
+//adding this just to change the commit message bc its showing up weird and bothering me
