@@ -21,11 +21,11 @@ button:active, button:focus {
     outline: none;
 }
   
-#card-area {
+#card-space {
     margin-top: 80px;
 }
   
-#card-area > img {
+#card-space > img {
     position: absolute;
     left: 0;
     right: 0;
